@@ -36,3 +36,4 @@ fun numberofVowels(character:Array<Char>):Int{
     }
      return vowel
 }
+lauras beauty is astonishing
