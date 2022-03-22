@@ -1,7 +1,7 @@
 fun main(){
   var f=productintegers(arrayOf(48,3,59,5,5))
     println(f)
-    var d=sumarray(arrayOf(7.1,65,3.3,657,"hyy",5,"wanjiru"))
+    var d=sumarray(arrayOf(7.1,65,3.3,657,"hyy",5,"virginia"))
     println(d)
     var s=numberofVowels(arrayOf('s','a','g','u','r','o'))
     println(s)
